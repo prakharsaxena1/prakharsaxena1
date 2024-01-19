@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on MERN stack<br>🌱 I’m currently learning Redux<br>💬 Ask me about React
+🔭 I’m currently working on MERN stack<br>🌱 I’m currently learning Next<br>💬 Ask me about React
 
 
 ## 🌐 Socials:
